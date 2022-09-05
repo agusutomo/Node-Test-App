@@ -1,7 +1,5 @@
 FROM node:carbon
 
-LABEL maintainer="Kinsta devs"
-
 # Set the working directory to /app
 WORKDIR /app
 
