@@ -11,5 +11,11 @@
   },
   "scripts": {
     "start": "node app.js"
+  },
+  "author": "Agus Utomo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agusutomo/node-test-app.git"
   }
 }
